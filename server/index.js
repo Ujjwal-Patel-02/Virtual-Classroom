@@ -20,6 +20,7 @@ const doubtRoute = require("./routes/doubts");
 const scheduleRoute = require("./routes/schedules");
 const classCommentRoute = require("./routes/classComments");
 const groupVideoCallSocket = require("./socket/groupVideoCall");
+const path = require("path")
 
 // config for dotenv
 dotenv.config();
@@ -34,6 +35,8 @@ mongoose
   .then(() => console.log("DB connected"))
   .catch((err) => console.log(err));
 
+const __dirname = path.resolve()
+
 app.use(express.json());
 
 // routes
@@ -46,6 +49,12 @@ app.use("/api/task", taskRoute);
 app.use("/api/doubt", doubtRoute);
 app.use("/api/schedule", scheduleRoute);
 app.use("/api/classcomment", classCommentRoute);
+
+app.use(express.static(path.join(__dirname, '/client/build')))
+
+app.get('*', (req,res) =>{
+  res.sendFile(path.join(__dirname, '/client/build/index.html'))
+})
 
 // sockets
 groupVideoCallSocket(io);
