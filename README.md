@@ -1,13 +1,7 @@
-[![fork](https://img.shields.io/github/forks/abhidevs/webdesk)](https://github.com/abhidevs/webdesk.git) [![issue](https://img.shields.io/github/issues/abhidevs/webdesk)](https://github.com/abhidevs/webdesk.git) [![star](https://img.shields.io/github/stars/abhidevs/webdesk?color=red)](https://open.vscode.dev/Naereen/badges) [![Generic badge](https://img.shields.io/badge/REPOSIZE-5.12MB-<COLOR>.svg)](https://github.com/abhidevs/webdesk.git) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://webdesk.netlify.app/) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
+
 
 # 📘 WEBDESK
 
-####
-
-<p>Smart Classroom System for efficient virtual learning. It
-facilitates multiple necessary and useful features under one roof.<br>
-<a href="https://webdesk.netlify.app" target="blank">Live demo ▶</a>
-</p>
 
 ## 📋 Table of Contents
 
@@ -70,30 +64,4 @@ this issue to a large extend by enabling a single window for teachers and facult
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)<br/>
 
 
-<a id="wow-factors"></a>
 
-## ✨ Wow Factors:
-
-- Modern and minimal Design<br/>
-- Mobile Responsive <br/>
-- Admin specific features for teachers & faculty <br/>
-- Multiple form validations and error checking <br/>
-- Downloadable PWA(Progressive Web App) <br/>
-
-
-<a id="future-work"></a>
-
-## 📅 Future Work:
-
-- Improve performance
-- stable video conferance
-- scaling video meetings to more members
-- adding more convineant option in meeting
-
-## 🐱‍👤 Contributors:
-
-- [Abhik Das](https://github.com/abhidevs)
-- [Biswanath Bera](https://github.com/Bisu03)
-- [Rabbil khan](https://github.com/Rabbkhan)
-- [Soumen Sau](https://github.com/Soumen2022)
-- [Soumen Jana](https://github.com/soumyaroy13336)
