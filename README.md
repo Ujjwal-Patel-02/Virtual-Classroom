@@ -7,10 +7,6 @@
 
 - [About](#intro)
 - [Screenshots](#Screenshots)
-- [Key Features](#Key-Features)
-- [Tech Stack](#tech-stack)
-- [Wow Factors](#wow-factors)
-- [Future Work](#future-work)
 
 <a id="intro"></a>
 
@@ -57,11 +53,6 @@ this issue to a large extend by enabling a single window for teachers and facult
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br/>
 ![WEBRTC](https://img.shields.io/badge/WEBRTC-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)<br/>
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)<br/>
-
-### Tools used
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)<br/>
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)<br/>
 
 
 
